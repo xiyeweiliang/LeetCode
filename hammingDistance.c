@@ -1,4 +1,17 @@
 int hammingDistance(int x, int y) {
+    int tmpInt=x^y;
+    int dis=0;
+    
+    while(tmpInt)
+    {
+        dis += tmpInt % 2;
+        tmpInt>>=1;
+    }
+    
+    return dis;
+}
+
+int hammingDistance(int x, int y) {
     int bitcount = 0; 
     int loop = 0;
     
