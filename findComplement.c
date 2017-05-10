@@ -3,7 +3,7 @@ int findComplement(int num) {
     int ret = 0;
     int index = 0;
     
-    while (tmp && (index < 32))
+    while (tmp)
     {
         if (!(tmp & 0x1))
             ret |= (0x1 << index);
