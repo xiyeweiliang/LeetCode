@@ -9,4 +9,4 @@ my soluting
 
 557 Reverse Words in a String III https://github.com/xiyeweiliang/LeetCode/blob/master/reverseWords3.c
 
-
+412 Fizz Buzz https://github.com/xiyeweiliang/LeetCode/blob/master/fizzBuzz.c
