@@ -6,14 +6,10 @@ int nextGreaterElementInArray(int* nums, int numsSize, int value)
     for (loop = 0; loop < numsSize; loop++)
     {
         if (nums[loop] == value)
-        {
             findnext = 1;
-        }
         
         if (findnext && nums[loop] > value)
-        {
             return nums[loop];
-        }
     }   
     
     return -1;
@@ -28,9 +24,7 @@ int* nextGreaterElement(int* findNums, int findNumsSize, int* nums, int numsSize
     int loop;
     
     for (loop = 0; loop < findNumsSize; loop++)
-    {
         findNums[loop] = nextGreaterElementInArray(nums, numsSize, findNums[loop]);
-    }
     
     return findNums;
 }
