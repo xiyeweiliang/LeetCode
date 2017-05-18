@@ -6,10 +6,10 @@ int islandPerimeter(int** grid, int gridRowSize, int gridColSize) {
     for (row = 0; row < gridRowSize; row++)
     {
         for (col = 0; col < gridColSize; col++)
-        {
-            connectedlands = 0;
+        {            
             if (grid[row][col])
             {
+                connectedlands = 0;
                 if ((row - 1) >= 0)
                     connectedlands += grid[(row - 1)][col];
 
