@@ -3,6 +3,8 @@ C Solutions to problems on LeetCode https://leetcode.com
 
 my soluting
 
+292	Nim Game  https://github.com/xiyeweiliang/LeetCode/blob/master/canWinNim.c
+
 344 Reverse String https://github.com/xiyeweiliang/LeetCode/blob/master/reverseString.c
 
 412 Fizz Buzz https://github.com/xiyeweiliang/LeetCode/blob/master/fizzBuzz.c
@@ -18,6 +20,7 @@ my soluting
 557 Reverse Words in a String III https://github.com/xiyeweiliang/LeetCode/blob/master/reverseWords3.c
 
 561 Array Partition I https://github.com/xiyeweiliang/LeetCode/blob/master/arrayPairSum.c
+
 
 
 
