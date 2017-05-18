@@ -17,6 +17,8 @@ my soluting
 
 557 Reverse Words in a String III https://github.com/xiyeweiliang/LeetCode/blob/master/reverseWords3.c
 
+561 Array Partition I https://github.com/xiyeweiliang/LeetCode/blob/master/arrayPairSum.c
+
 
 
 
