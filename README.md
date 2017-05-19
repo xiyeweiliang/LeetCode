@@ -15,6 +15,8 @@ my soluting
 
 476 Number Complement https://github.com/xiyeweiliang/LeetCode/blob/master/findComplement.c
 
+485 Max Consecutive Ones https://github.com/xiyeweiliang/LeetCode/blob/master/findMaxConsecutiveOnes.c
+
 496 Next Greater Element I https://github.com/xiyeweiliang/LeetCode/blob/master/nextGreaterElement.c
 
 557 Reverse Words in a String III https://github.com/xiyeweiliang/LeetCode/blob/master/reverseWords3.c
@@ -22,4 +24,5 @@ my soluting
 561 Array Partition I https://github.com/xiyeweiliang/LeetCode/blob/master/arrayPairSum.c
 
 575 Distribute Candies https://github.com/xiyeweiliang/LeetCode/blob/master/distributeCandies.c
+
 
