@@ -21,8 +21,5 @@ my soluting
 
 561 Array Partition I https://github.com/xiyeweiliang/LeetCode/blob/master/arrayPairSum.c
 
-
-
-
-
+575 Distribute Candies https://github.com/xiyeweiliang/LeetCode/blob/master/distributeCandies.c
 
