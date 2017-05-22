@@ -21,6 +21,8 @@ my soluting
 
 496 Next Greater Element I https://github.com/xiyeweiliang/LeetCode/blob/master/nextGreaterElement.c
 
+520 Detect Capital https://github.com/xiyeweiliang/LeetCode/blob/master/detectCapitalUse.c
+
 557 Reverse Words in a String III https://github.com/xiyeweiliang/LeetCode/blob/master/reverseWords3.c
 
 561 Array Partition I https://github.com/xiyeweiliang/LeetCode/blob/master/arrayPairSum.c
