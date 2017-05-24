@@ -11,6 +11,8 @@ my soluting
 
 344 Reverse String https://github.com/xiyeweiliang/LeetCode/blob/master/reverseString.c
 
+389 Find the Difference https://github.com/xiyeweiliang/LeetCode/blob/master/findTheDifference.c
+
 412 Fizz Buzz https://github.com/xiyeweiliang/LeetCode/blob/master/fizzBuzz.c
 
 448 Find All Numbers Disappeared in an Array https://github.com/xiyeweiliang/LeetCode/blob/master/findDisappearedNumbers.c
