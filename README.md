@@ -9,6 +9,8 @@ my soluting
 
 226 Invert Binary Tree https://github.com/xiyeweiliang/LeetCode/blob/master/invertTree.c
 
+258 Add Digits https://github.com/xiyeweiliang/LeetCode/blob/master/addDigits.c
+
 292	Nim Game  https://github.com/xiyeweiliang/LeetCode/blob/master/canWinNim.c
 
 344 Reverse String https://github.com/xiyeweiliang/LeetCode/blob/master/reverseString.c
