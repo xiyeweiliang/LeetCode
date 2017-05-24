@@ -3,6 +3,8 @@ C Solutions to problems on LeetCode https://leetcode.com
 
 my soluting
 
+104 Maximum Depth of Binary Tree https://github.com/xiyeweiliang/LeetCode/blob/master/maxDepth.c
+
 136 Single Number https://github.com/xiyeweiliang/LeetCode/blob/master/singleNumber.c
 
 292	Nim Game  https://github.com/xiyeweiliang/LeetCode/blob/master/canWinNim.c
