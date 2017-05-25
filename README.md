@@ -33,6 +33,8 @@ my soluting
 
 485 Max Consecutive Ones https://github.com/xiyeweiliang/LeetCode/blob/master/findMaxConsecutiveOnes.c
 
+492 Construct the Rectangle https://github.com/xiyeweiliang/LeetCode/blob/master/constructRectangle.c
+
 496 Next Greater Element I https://github.com/xiyeweiliang/LeetCode/blob/master/nextGreaterElement.c
 
 520 Detect Capital https://github.com/xiyeweiliang/LeetCode/blob/master/detectCapitalUse.c
