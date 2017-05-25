@@ -11,6 +11,8 @@ my soluting
 
 258 Add Digits https://github.com/xiyeweiliang/LeetCode/blob/master/addDigits.c
 
+283 Move Zeroes https://github.com/xiyeweiliang/LeetCode/blob/master/moveZeroes.c
+
 292	Nim Game  https://github.com/xiyeweiliang/LeetCode/blob/master/canWinNim.c
 
 344 Reverse String https://github.com/xiyeweiliang/LeetCode/blob/master/reverseString.c
