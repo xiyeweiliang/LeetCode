@@ -7,6 +7,8 @@ my soluting
 
 136 Single Number https://github.com/xiyeweiliang/LeetCode/blob/master/singleNumber.c
 
+167 Two Sum II - Input array is sorted https://github.com/xiyeweiliang/LeetCode/blob/master/twoSum.c
+
 226 Invert Binary Tree https://github.com/xiyeweiliang/LeetCode/blob/master/invertTree.c
 
 258 Add Digits https://github.com/xiyeweiliang/LeetCode/blob/master/addDigits.c
