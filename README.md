@@ -21,6 +21,8 @@ my soluting
 
 371 Sum of Two Integers https://github.com/xiyeweiliang/LeetCode/blob/master/getSum.c
 
+383 Ransom Note https://github.com/xiyeweiliang/LeetCode/blob/master/canConstruct.c
+
 389 Find the Difference https://github.com/xiyeweiliang/LeetCode/blob/master/findTheDifference.c
 
 404 Sum of Left Leaves https://github.com/xiyeweiliang/LeetCode/blob/master/sumOfLeftLeaves.c
