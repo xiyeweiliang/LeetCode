@@ -3,6 +3,8 @@ C Solutions to problems on LeetCode https://leetcode.com
 
 my soluting
 
+53 Maximum Subarray https://github.com/xiyeweiliang/LeetCode/blob/master/maxSubArray.c
+
 88 Merge Sorted Array https://github.com/xiyeweiliang/LeetCode/blob/master/merge.c
 
 104 Maximum Depth of Binary Tree https://github.com/xiyeweiliang/LeetCode/blob/master/maxDepth.c
