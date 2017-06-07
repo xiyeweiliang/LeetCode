@@ -3,6 +3,8 @@ C Solutions to problems on LeetCode https://leetcode.com
 
 my soluting
 
+88 Merge Sorted Array https://github.com/xiyeweiliang/LeetCode/blob/master/merge.c
+
 104 Maximum Depth of Binary Tree https://github.com/xiyeweiliang/LeetCode/blob/master/maxDepth.c
 
 136 Single Number https://github.com/xiyeweiliang/LeetCode/blob/master/singleNumber.c
